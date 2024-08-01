@@ -74,6 +74,7 @@ export default function Home() {
               You are the most beautiful person I have ever seen, your heart and appearance are truly beautiful, you are also the greatest woman I have ever seen all this time. You are like an angel from heaven sent to guide Darwan, you know? HAHAHAHA<br /><br />
               I can&apos;t imagine if I end up with you, will my life be even more cheerful? Hahahaha or will my life be more advanced than before? Because I think you are like an angel, you are the perfect woman I have ever seen so far.<br /><br />
               I send flowers to appreciate you, thank you very much.<br /><br />
+              Wishing you a blessed Umrah, I will always pray for the best for you here.<br /><br />
               With love,</span><br />
               <span className='font-bold'>Darwan</span>
             </p>
