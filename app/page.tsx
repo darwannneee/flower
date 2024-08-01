@@ -67,7 +67,7 @@ export default function Home() {
             <small className={`${FontNotoSerif.className}`}>click the flower</small>
           </>
         ) : (
-          <div className='px-6' style={{ textAlign: 'center' }}>
+          <div className='px-6 py-10' style={{ textAlign: 'center' }}>
             <p className={`${FontNotoSerif.className}`}>
               <span className='font-bold text-2xl'>Happy National Girlfriend Day ❤️</span><br /><br />
               <span className={`${PoppinsFont.className}`}>Thank you for being the person who inspires me all this time, thank you for giving advice, and always encouraging me all this time.<br /><br />
